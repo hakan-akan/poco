@@ -17,7 +17,6 @@
 #include "Poco/Zip/Add.h"
 #include "Poco/Zip/Compress.h"
 
-............................build_breaking_test.............................
 
 namespace Poco {
 namespace Zip {
